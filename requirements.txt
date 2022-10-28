@@ -1,0 +1,10 @@
+pandas
+numpy
+python-dotenv
+azure-ai-anomalydetector
+azure-core
+firebase-admin
+azure-storage-blob
+librosa
+Flask==2.1.0
+Flask-Cors == 3.0.10
